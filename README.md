@@ -28,7 +28,7 @@ Templates to help you start building on Omni.
 Practical examples and tutorials to understand how to work with Omni.
 
 - [Cross Chain Staking](https://github.com/omni-network/cross-stake) - Example cross chain app for multi-rollup staking with global state managed by the Omni EVM.
-- [XRegistry Contract](https://github.com/omni-network/omni/blob/main/contracts/src/protocol/XRegistry.sol) - Omni Registry contract that saves deployed contracts according to their chains for all supported rollups. Can be used as a utility for contract whitelisting.
+- [XRegistry Contract](https://github.com/omni-network/omni/blob/main/contracts/src/protocol/XRegistry.sol) - A contract address registry that syncs registrations across [XRegistryReplicas](https://github.com/omni-network/omni/blob/main/contracts/src/protocol/XRegistryReplica.sol) on other chains.
   - [PortalRegistry Contract](https://github.com/omni-network/omni/blob/main/contracts/src/protocol/PortalRegistry.sol) - Omni contract to register supported portals across the Ethereum rollup ecosystem.
 
 ## Contribute

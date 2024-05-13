@@ -1,6 +1,6 @@
 # Awesome Omni [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources supporting Omni, the interop blockchain for Ethereum rollups.
+> A curated list of resources related to Omni, the interop blockchain for Ethereum rollups.
 
 ## Contents
 

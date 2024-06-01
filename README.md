@@ -22,6 +22,7 @@ Official links, developer tools, documentation, and other learning resources.
 Templates to help you start building on Omni.
 
 - [Basic Rollup Template](https://github.com/omni-network/omni-forge-template) - A starter template with an `XGreeter` cross-chain set string contract that emits an event.
+- [Hello World Template](https://github.com/omni-network/hello-world-template) - Template with two contracts (one for managing global state and another for rollups) for setting and getting a string value across rollups.
 
 ## Examples
 

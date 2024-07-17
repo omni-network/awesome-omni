@@ -16,6 +16,7 @@ Official links, developer tools, documentation, and other learning resources.
 - [Official Website](https://omni.network/) - Find general information and the latest updates on Omni.
 - [Developer Documentation](https://docs.omni.network/) - Comprehensive developer resources, including API references and setup guides.
 - [Github Monorepo](https://github.com/omni-network/omni) - The official GitHub repository for Omni core implementations.
+- [Requests for Protocols](https://omni.network/requests) - a few ideas for applications we would love to see build with Omni.
 
 ## Templates
 

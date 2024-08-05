@@ -18,17 +18,11 @@ Official links, developer tools, documentation, and other learning resources.
 - [Github Monorepo](https://github.com/omni-network/omni) - The official GitHub repository for Omni core implementations.
 - [Requests for Protocols](https://omni.network/requests) - a few ideas for applications we would love to see build with Omni.
 
-## Templates
+## Templates and Examples
 
-Templates to help you start building on Omni.
+Practical examples and templates to understand how to work with Omni.
 
-- [Basic Rollup Template](https://github.com/omni-network/omni-forge-template) - A starter template with an `XGreeter` cross-chain set string contract that emits an event.
 - [Hello World Template](https://github.com/omni-network/hello-world-template) - Template with two contracts (one for managing global state and another for rollups) for setting and getting a string value across rollups.
-
-## Examples
-
-Practical examples and tutorials to understand how to work with Omni.
-
 - [Cross Chain Staking](https://github.com/omni-network/cross-stake) - Example cross chain app for multi-rollup staking with global state managed by the Omni EVM.
 
 ## Contribute

@@ -2,13 +2,6 @@
 
 > A curated list of resources related to Omni, the interop blockchain for Ethereum rollups.
 
-## Contents
-
-- [Resources](#resources)
-- [Templates](#templates)
-- [Examples](#examples)
-- [Contribute](#contribute)
-
 ## Resources
 
 Official links, developer tools, documentation, and other learning resources.

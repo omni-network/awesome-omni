@@ -22,10 +22,9 @@ Official links, developer tools, documentation, and other learning resources.
 
 Practical examples and templates to understand how to work with Omni.
 
-- [Hello World Template](https://github.com/omni-network/hello-world-template) - Template with two contracts (one for managing global state and another for rollups) for setting and getting a string value across rollups.
-- [Cross Chain Staking](https://github.com/omni-network/cross-stake) - Example cross chain app for multi-rollup staking with global state managed by the Omni EVM.
+- [Hello World Template](https://github.com/omni-network/hello-world-template) - Simple xchain starter template.
+- [XStake](https://github.com/kevinhalliday/xstake) - An example xchain staking app that allows ERC20 deposits on multiple chains.
 
 ## Contribute
 
 Contributions are welcome! If you want to contribute to the repository, please read the [contribution guidelines](contributing.md) first.
-

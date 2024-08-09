@@ -2,19 +2,12 @@
 
 > A curated list of resources related to Omni, the interop blockchain for Ethereum rollups.
 
-## Contents
-
-- [Resources](#resources)
-- [Templates](#templates)
-- [Examples](#examples)
-- [Contribute](#contribute)
-
 ## Resources
 
 Official links, developer tools, documentation, and other learning resources.
 
-- [Official Website](https://omni.network/) - Find general information and the latest updates on Omni.
 - [Developer Documentation](https://docs.omni.network/) - Comprehensive developer resources, including API references and setup guides.
+- [Developer Support Telegram](https://t.me/+zDWsRVjLXzZkOTIx) - Ask questions about building dapps with Omni.
 - [Github Monorepo](https://github.com/omni-network/omni) - The official GitHub repository for Omni core implementations.
 - [Requests for Protocols](https://omni.network/requests) - a few ideas for applications we would love to see build with Omni.
 

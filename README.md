@@ -16,7 +16,7 @@ Official links, developer tools, documentation, and other learning resources.
 Practical examples and templates to understand how to work with Omni.
 
 - [Hello World Template](https://github.com/omni-network/hello-world-template) - Simple xchain starter template.
-- [XStake](https://github.com/kevinhalliday/xstake) - An example xchain staking app that allows ERC20 deposits on multiple chains.
+- [XStake](https://github.com/omni-network/xstake) - An example xchain staking app that allows ERC20 deposits on multiple chains.
 
 ## Contribute
 
